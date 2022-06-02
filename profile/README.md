@@ -1,1 +1,1 @@
-![](banner/citi-banner.PNG)
+![](banner/cit-banner.PNG)
